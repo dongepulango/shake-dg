@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="25px" viewBox="0 0 26 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="[Symbols]" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Components/Toolbar-Crash-reports" transform="translate(-19.000000, -95.000000)" stroke="#D1D1D6" stroke-width="2">
+            <g id="Tab" transform="translate(0.000000, 80.000000)">
+                <g id="Path" transform="translate(20.000000, 15.999997)">
+                    <path d="M14.664,16 L5.33333333,15.9973363 C2.388,15.9973363 0,13.608003 0,10.6613363 L0,9.33200299 C0,6.38533632 2.388,3.99733632 5.33466667,3.99733632 L14.6653333,3.99733632 L19.828,0.469336321 C21.5986667,-0.739997012 24,0.528002988 24,2.67200299 L24,17.328003 C24,19.472003 21.5973333,20.740003 19.828,19.5293363 L14.664,16 Z"></path>
+                    <line x1="14.6666667" y1="4.00000299" x2="14.6666667" y2="16.000003"></line>
+                    <path d="M4,16.000003 L6.03866667,21.144003 C6.40266667,22.064003 7.28533333,22.6666697 8.26533333,22.6666697 C9.96,22.6666697 11.12,20.9413363 10.4946667,19.3506697 L9.176,16.000003"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
